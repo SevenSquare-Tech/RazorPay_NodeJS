@@ -1,6 +1,6 @@
-# Razorpay Integration in Node.js E-commerce Web Application
+# Razorpay Integration in Node.js E-commerce Application
 
-Welcome to the Razorpay integration in a Node.js E-commerce Web Application. This project demonstrates how to implement Razorpay for online payments in a modern e-commerce platform using various technologies.Follow this README to understand the setup and features of this application.
+Welcome to the Razorpay integration in a Node.js E-commerce Application. This project demonstrates how to implement Razorpay for online payments in a modern e-commerce platform using various technologies.Follow this README to understand the setup and features of this application.
 
 Curious how businesses use this in production? Read how we do it at Seven Square → [[link to blog](https://www.sevensquaretech.com/razorpay-api-integration-guide-in-nodejs/)]
 
@@ -211,4 +211,4 @@ Curious how businesses use this in production? Read how we do it at Seven Square
    });
    ```
 
-   Enjoy a seamless and secure online shopping experience with our Node.js E-commerce Web Application integrated with Razorpay.
+   Enjoy a seamless and secure online shopping experience with our Node.js E-commerce Application integrated with Razorpay.
