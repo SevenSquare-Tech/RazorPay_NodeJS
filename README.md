@@ -2,10 +2,6 @@
 
 Welcome to the Razorpay integration in a Node.js E-commerce Web Application. This project demonstrates how to implement Razorpay for online payments in a modern e-commerce platform using various technologies. Follow this README to understand the setup and features of this application.
 
-![E-commerce UI Screenshot](./public/Screenshot%202024-05-22%20132126.png)
-
-[Watch the Demo Video](./public//Home%20-%20Brave%202024-05-22%2013-41-27.mp4)
-
 ---
 
 ## ⚙️ Tech Stack
